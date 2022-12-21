@@ -1,2 +1,3 @@
-#testserver
 #test
+[webserver]
+35.180.242.228 ansible_user=ubuntu
